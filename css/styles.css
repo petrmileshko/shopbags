@@ -96,12 +96,14 @@
 
 /*Вводная часть "Шапка"*/
 .page-header {
-
+outline: 1px solid tomato;
+outline-offset: -1px;
 }
 
 /* Нижний колонтитул "Подвал сайта"*/
 .page-footer {
-
+outline: 1px solid tomato;
+outline-offset: -1px;
 }
 
 /* Основное содержимое */
